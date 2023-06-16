@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Haocheng.
+
+<h3>A passionate fourth year MEng computer science student at UCL 🏛️</h3>
+
+🌍 I'm based in the UK 🇬🇧.
+👯 I’m looking to collaborate on a AI and digital transformation project. 
+
+
 <!--
 **hlin863/hlin863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
