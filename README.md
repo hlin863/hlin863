@@ -9,11 +9,13 @@ I'm Haocheng.
 <h3>A passionate fourth year MEng computer science student at UCL 🏛️</h3>
 <ul>
   <li>🌍 I'm based in the UK 🇬🇧.</li>
-  <li>👯 I’m looking to collaborate on a AI and digital transformation project.</li>
+  <li>👯 I’m looking to collaborate on an AI and digital transformation project.</li>
   <li>📝 I'm a dedicated and enthusiastic Quora writer 👉<a href="https://www.quora.com/profile/Haocheng-Lin-2">here</a>.</li>
 </ul>
 <br>
 
+🌟Follow the link for my 🧪recent research progress 📚 at 🔗<a href="https://www.researchgate.net/profile/Haocheng-Lin-2">ResearchGate</a>🔗.
+<br>
 
 <!--
 **hlin863/hlin863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
