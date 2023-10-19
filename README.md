@@ -6,7 +6,7 @@
 
 I'm Haocheng.
 
-<h3>A passionate fourth year MEng computer science student at UCL 🏛️</h3>
+<h3>A passionate MSc student in AI for Sustainable Development at UCL 🏛️</h3>
 <ul>
   <li>🌍 I'm based in the UK 🇬🇧.</li>
   <li>👯 I’m looking to collaborate on an AI and digital transformation project.</li>
