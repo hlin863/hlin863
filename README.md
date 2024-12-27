@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- add my profile image here -->
-<image src="linkedin_profile.jpg" width="200" height="200" align="center" />
+<image src="linkedin_profile.jpg" width="200" height="286" align="center" />
 <br>
 
 I'm Haocheng.
