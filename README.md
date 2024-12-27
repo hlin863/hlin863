@@ -27,12 +27,14 @@ I'm Haocheng.
       <p style="font-size: 16px; color: #555; margin: 5px 0;"><strong>Sep. 2023 – Sep. 2024</strong></p>
       <p style="font-style: italic; color: #999;">University College London</p>
     </div>
-    
+  </div>
+
+  <div style="position: relative; padding-left: 30px; margin-top: 50px;">
     <div style="position: relative; margin-left: 70px; margin-bottom: 30px;">
-      <div style="content: ''; position: absolute; left: -12px; top: 12px; width: 18px; height: 18px; background-color: #FF8C00; border-radius: 50%; box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);"></div>
-      <h3 style="font-size: 20px; font-weight: bold; margin: 0; color: #333;">MEng Computer Science</h3>
-      <p style="font-size: 16px; color: #555; margin: 5px 0;"><strong>Sep. 2019 – Jun. 2023</strong></p>
-      <p style="font-style: italic; color: #999;">University College London</p>
+        <div style="content: ''; position: absolute; left: -12px; top: 12px; width: 18px; height: 18px; background-color: #FF8C00; border-radius: 50%; box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);"></div>
+        <h3 style="font-size: 20px; font-weight: bold; margin: 0; color: #333;">MEng Computer Science</h3>
+        <p style="font-size: 16px; color: #555; margin: 5px 0;"><strong>Sep. 2019 – Jun. 2023</strong></p>
+        <p style="font-style: italic; color: #999;">University College London</p>
     </div>
   </div>
   
