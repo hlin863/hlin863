@@ -8,7 +8,7 @@ I'm Haocheng.
 
 <ul>
   <li>🌍 I'm based in the UK 🇬🇧.</li>
-  <li>👯 I’m looking to collaborate on an AI and digital transformation project.</li>
+  <li>👯 I want to collaborate on an AI and digital transformation projects.</li>
   <li>📝 I'm a dedicated and enthusiastic Quora writer 👉<a href="https://www.quora.com/profile/Haocheng-Lin-2">here</a>.</li>
 </ul>
 <br>
@@ -37,6 +37,11 @@ I'm Haocheng.
         <p style="font-style: italic; color: #999;">University College London</p>
     </div>
   </div>
+
+  ## Connect with me
+  [<img align="left" alt="Haocheng Lin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/haochenglin656/)
+
+  <br>
 
   <div align="center">
 
