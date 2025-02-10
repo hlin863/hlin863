@@ -37,6 +37,18 @@ I'm Haocheng.
         <p style="font-style: italic; color: #999;">University College London</p>
     </div>
   </div>
+
+  <div align="center">
+
+  ### Haocheng Lin's GitHub Stats
+  
+  #### Overall Performance
+  [![Haocheng’s github stats](https://github-readme-stats.vercel.app/api?username=hlin863&show_icons=true&theme=radical)](https://github.com/hlin863)
+  
+  #### Language Usage
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlin863&layout=compact&theme=radical)](https://github.com/hlin863)
+  
+  </div>
   
 </div>
 
