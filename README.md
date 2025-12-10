@@ -42,20 +42,6 @@ I'm Haocheng.
 
   ## Connect with me
   [<img align="left" alt="Haocheng Lin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/haochenglin656/)
-
-  <br>
-
-  <div align="center">
-
-  ### Haocheng Lin's GitHub Stats
-  
-  #### Overall Performance
-  [![Haocheng’s github stats](https://github-readme-stats.vercel.app/api?username=hlin863&show_icons=true&theme=radical)](https://github.com/hlin863)
-  
-  #### Language Usage
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlin863&layout=compact&theme=radical)](https://github.com/hlin863)
-  
-  </div>
   
 </div>
 
